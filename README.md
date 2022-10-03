@@ -1,7 +1,5 @@
 ### Olá! Pode me chamar de Carol!
 
-Here are some ideas to get you started:
-
 - 🔭 Atualmente estudando análise e desenvolvimento de sistemas
 - 😊 Aprendendo programação a pouco tempo e usando essa plataforma a menos ainda.
 - 🌱 Estudando HTML, CSS e Python.
