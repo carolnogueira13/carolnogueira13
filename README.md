@@ -1,10 +1,8 @@
-### Olá! Pode me chamar de Carol!
+### Olá! Pode me chamar de Carol! 💗
 
 - 🔭 Atualmente estudando análise e desenvolvimento de sistemas
-- 😊 Aprendendo programação a pouco tempo e usando essa plataforma a menos ainda.
 - 🌱 Estudando HTML, CSS e Python.
-- 😄 Pronouns: Ela/dela
-- ⚡ Fato engraçado: Eu amo muitoooooo doces (se você me conhece sabe que eu sempre tenho um docinho comigo) e meu emoji favorito é esse 💗 
+- 😄 Pronouns: Ela/dela 
 
 <div align="center">
   <a href="https://github.com/carolnogueira13">
