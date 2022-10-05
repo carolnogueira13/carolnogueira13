@@ -1,4 +1,4 @@
-### Olá! Pode me chamar de Carol! 💗
+### Olá! Pode me chamar de Carol!💗
 
 - 🔭 Atualmente estudando análise e desenvolvimento de sistemas
 - 🌱 Estudando HTML, CSS e Python.
