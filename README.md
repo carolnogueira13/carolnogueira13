@@ -1,7 +1,7 @@
 ### Olá! Pode me chamar de Carol!💗
 
 - 🔭 Atualmente estudando análise e desenvolvimento de sistemas
-- 🌱 Estudando HTML, CSS e Python.
+- 🌱 Estudando HTML, CSS e Python e ainda aprendendo como mexer aqui.
 - 😄 Pronouns: Ela/dela 
 
 <div align="center">
