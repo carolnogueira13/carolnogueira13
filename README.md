@@ -1,7 +1,7 @@
 ### Olá! Pode me chamar de Carol!💗
 
 - 🔭 Atualmente estudando análise e desenvolvimento de sistemas
-- 🌱 Estudando HTML, CSS e Python e ainda aprendendo como mexer aqui.
+- 🌱 Estudando HTML, CSS, Python e Java, ainda aprendendo como mexer aqui.
 - 😄 Pronouns: Ela/dela 
 
 <div align="center">
@@ -13,6 +13,7 @@
   <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carol-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
     
