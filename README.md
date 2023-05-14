@@ -1,21 +1,9 @@
 ### Olá! Pode me chamar de Carol!💗
-
-- 🔭 Atualmente estudando análise e desenvolvimento de sistemas
-- 🌱 Estudando HTML, CSS, Python e Java, ainda aprendendo como mexer aqui.
-- 😄 Pronouns: Ela/dela 
-
-<div align="center">
+ 
+<div align="start">
   <a href="https://github.com/carolnogueira13">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolnogueira13&layout=compact&langs_count=7&theme=panda&include_all_commits=true&count_private=true"/
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Carol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carol-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-</div>
-
     
 ##
 
