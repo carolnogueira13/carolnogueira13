@@ -9,6 +9,5 @@
     
 ##
 
-![snake gif](https://github.com/carolnogueira13/carolnogueira13/blob/output/github-contribution-grid-snake.svg)
 
 
